@@ -1,0 +1,4 @@
+SoilHygrometer	KEYWORD1
+read	KEYWORD2
+print	KEYWORD2
+toString	KEYWORD2
